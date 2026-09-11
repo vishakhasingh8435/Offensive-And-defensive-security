@@ -1,11 +1,13 @@
 # Offensive and Defensive Security Lab
 
-**Course Code:** COM-512  
-**Course:** Offensive Defensive Security Lab  
+**Contributor:** Sushil  
+**Course Code:** COM-502  
+**Course:** Offensive and Defensive Security Lab  
 **Program:** B.Tech CSE (Cyber Security)  
-**Institute:** MIET (Autonomous), Jammu
+**Institute:** MIET (Autonomous), Jammu  
+**GitHub Repository:** Offensive-and-defensive-security-COM-502-
 
-This repository contains the laboratory work for **COM-512: Offensive and Defensive Security Lab**.
+This repository contains the laboratory work for **COM-502: Offensive and Defensive Security Lab** and is maintained by **Sushil**.
 
 ## Experiments
 
