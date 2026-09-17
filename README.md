@@ -1,7 +1,6 @@
 # Offensive and Defensive Security Lab
 
 **Contributor:** Sushil  
-**GitHub Username:** 4316sushil39  
 **Course Code:** COM-502  
 **Course:** Offensive and Defensive Security Lab  
 **Program:** B.Tech CSE (Cyber Security)  
@@ -13,7 +12,7 @@ This repository contains the laboratory work for **COM-502: Offensive and Defens
 ## Experiments
 
 1. [Experiment 1: Nmap & Nessus](Experiment-1-Nmap-Nessus/README.md)
-2. Experiment 2: Metasploit
+2. [Experiment 2: Metasploit](Exp-2/README.md)
 3. Experiment 3: Wireshark Traffic Analysis
 4. Experiment 4: Firewall & IDS Setup
 5. Experiment 5: Sniffing & Session Hijacking
