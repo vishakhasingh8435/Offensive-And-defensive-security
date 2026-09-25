@@ -1,6 +1,6 @@
 # Offensive and Defensive Security Lab
 
-**Contributor:** vishakha<br>
+**Contributor:** vishakha
 **Course Code:** COM-502  
 **Course:** Offensive and Defensive Security Lab  
 **Program:** B.Tech CSE (Cyber Security)  
