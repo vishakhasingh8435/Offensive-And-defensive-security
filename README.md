@@ -14,10 +14,10 @@ This repository contains the laboratory work for **COM-502: Offensive and Defens
 1. [Experiment 1: Nmap & Nessus](Experiment-1-Nmap-Nessus/README.md)
 2. [Experiment 2: Metasploit](Exp-2/README.md)
 3. [Experiment 3: Wireshark Traffic Analysis](Exp-3/README.md)
-4. Experiment 4: Firewall & IDS Setup
-5. Experiment 5: Sniffing & Session Hijacking
-6. Experiment 6: OWASP ZAP
-7. Experiment 7: OSINT Recon
-8. Experiment 8: MITRE ATT&CK Mapping
-9. Experiment 9: Hydra Password Guessing
-10. Experiment 10: Gophish Phishing Simulation
+4. [Experiment 4: Firewall & IDS Setup](experiment4(pfsense)/README.md)
+5. [Experiment 5: Sniffing & Session Hijacking](experiment5(session%20hijacking)/README.md)
+6. [Experiment 6: OWASP ZAP](Exp-6/README.md)
+7. [Experiment 7: OSINT Recon](Exp-7/README.md)
+8. [Experiment 8: MITRE ATT&CK Mapping](experiment8(MITREATT&CK)/README.md)
+9. [Experiment 9: Hydra Password Guessing](experiment9(hydra)/README.md)
+10. [Experiment 10: GoPhish Phishing Awareness Simulation](Exp-10/README.md)
